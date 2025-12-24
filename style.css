@@ -99,25 +99,3 @@ body {
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* Add shadow for a floating effect */
 }
 
-p {
-    margin: 10px 0; /* Add space between paragraphs */
-    font-size: 18px; /* Set font size for paragraphs */
-}
-
-.back-to-games {
-    display: inline-block; /* Makes the link behave like a box */
-    padding: 10px 20px; /* Adds space inside the box */
-    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black background */
-    color: white; /* White text color */
-    border: 2px solid rgba(255, 255, 255, 0.6); /* Adds a border */
-    border-radius: 5px; /* Slight rounding of the corners */
-    text-decoration: none; /* Removes the underline from the link */
-    font-size: 18px; /* Adjusts the font size */
-    margin-top: 10px; /* Adds space above the link */
-    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
-}
-
-.back-to-games:hover {
-    background-color: rgb(143, 35, 35); /* Darkens background on hover */
-    border-color: rgba(255, 255, 255, 1); /* Lightens border on hover */
-}
